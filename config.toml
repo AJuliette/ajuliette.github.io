@@ -1,8 +1,8 @@
-base_url = "https://zola386.netlify.app"
+base_url = "https://ajuliette.github.io"
 
 default_language = "en"
-title = "ZOLA.386"
-description = "A port of the BOOTSTRA.386 theme."
+title = "Juliette Audema"
+description = "A developer journey."
 
 highlight_code = true
 compile_sass = true
@@ -16,8 +16,8 @@ taxonomies = [
 
 
 [extra]
-author = "José Lopes"
-year = "2020"
+author = "Original Theme Zola.386 by José Lopes"
+year = "2021"
 
 keywords = "zola, theme, retro, hacking"
 theme_color = "#000084"
