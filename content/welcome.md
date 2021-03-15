@@ -45,5 +45,5 @@ Nowadays there is a lot of tools for tech writers to blog: [Dev.to](https://dev.
 
 I chose [Zola](https://www.getzola.org/) just because of this [beautiful theme](https://github.com/lopes/zola.386). I knew I wanted to make my blog with a static generator, because it's so convenient to change themes, or even adopt a headless CMS if I want to, and I finally concede to not build it from scratch.
 
-I thing it will be mostly opinion or news posts, I actually never wrote a tutorial, but I hope the day will come :)
+I thing it will be mostly opinion or news posts, I actually never wrote a tutorial, but I hope the day will come !
 
