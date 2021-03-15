@@ -5,15 +5,6 @@
   <dl class="dl-horizontal">
     <dt>{{ config.extra.label_date }}</dt>
     <dd>{{ page.date | date(format="%Y-%m-%d") }}</dd>
-    
-    <dt>{{ config.extra.label_author }}</dt>
-    <dd>
-      {% if page.extra.author %}
-        {{page.extra.author}}
-      {% else %}
-        {{config.extra.author}}
-      {% endif %}
-    </dd>
 
     {% if page.taxonomies.categories %}
     <dt>{{ config.extra.label_taxonomy }}</dt>

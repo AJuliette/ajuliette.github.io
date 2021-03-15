@@ -42,6 +42,7 @@ github_user = "ajuliette"
 # gitlab_user = ""
 
 ### I18N WORDS
+label_about = "About"
 label_tags = "Tags"
 label_tag = "Tag"
 label_categories = "Categories"
