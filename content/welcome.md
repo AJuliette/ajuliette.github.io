@@ -6,7 +6,7 @@ draft = false
 slug = "welcome"
 
 [taxonomies]
-categories = ["blog"]
+categories = ["N/A"]
 tags = ["developer journey", "ruby", "rails"]
 
 [extra]
