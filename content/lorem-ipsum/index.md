@@ -2,16 +2,15 @@
 title = "Lorem Ipsum"
 description = "dolor sit amet, consectetur"
 date = 2020-05-01
-draft = false
+draft = true
 slug = "lorem-ipsum"
 
 [taxonomies]
-categories = ["pellentesque"]
-tags = ["hac", "velit", "risus"]
+categories = ["none"]
+tags = []
 
 [extra]
 comments = true
-lang = "pt"
 image = "https://zola386.netlify.app/lorem-ipsum/crt-phosphor-dots.png"
 +++
 

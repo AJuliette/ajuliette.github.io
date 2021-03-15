@@ -1,13 +1,13 @@
 +++
-title = "Sem Nulleta"
-description = "pharetra diam sit amet nisl suscipit"
-date = 2020-05-02
+title = "Welcome"
+description = "because I have to start somewhere"
+date = 2021-03-15
 draft = false
-slug = "sem-nulla"
+slug = "welcome"
 
 [taxonomies]
-categories = ["laoreet"]
-tags = ["risus", "platea", "nunc"]
+categories = ["blog"]
+tags = ["developer journey", "ruby", "rails"]
 
 [extra]
 comments = true
