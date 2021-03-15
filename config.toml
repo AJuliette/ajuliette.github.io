@@ -16,8 +16,9 @@ taxonomies = [
 
 
 [extra]
-author = "Original Theme Zola.386 by José Lopes"
-author_url = "https://github.com/lopes/zola.386"
+author = "Juliette"
+theme_author = "Original Theme Zola.386 by José Lopes"
+theme_author_url = "https://github.com/lopes/zola.386"
 year = "2021"
 
 keywords = "zola, theme, retro, hacking"
