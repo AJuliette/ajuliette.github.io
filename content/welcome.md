@@ -7,18 +7,43 @@ slug = "welcome"
 
 [taxonomies]
 categories = ["N/A"]
-tags = ["developer journey", "ruby", "rails"]
+tags = ["developer journey"]
 
 [extra]
 comments = true
 +++
 
-Sem nulla pharetra diam sit amet nisl suscipit. Quis blandit turpis cursus in hac habitasse platea dictumst. Id diam vel quam elementum pulvinar. Fermentum dui faucibus in ornare quam. Libero justo laoreet sit amet cursus sit amet dictum sit. Lacus luctus accumsan tortor posuere. Turpis egestas maecenas pharetra convallis posuere morbi leo. At varius vel pharetra vel turpis nunc eget lorem dolor. Tristique senectus et netus et. In hac habitasse platea dictumst vestibulum rhoncus. Gravida rutrum quisque non tellus orci ac. Nulla facilisi morbi tempus iaculis urna id volutpat. Porta lorem mollis aliquam ut porttitor leo. Dictum sit amet justo donec enim diam vulputate. Dapibus ultrices in iaculis nunc sed augue lacus. Mattis pellentesque id nibh tortor id aliquet. Quisque egestas diam in arcu cursus euismod quis viverra. Laoreet non curabitur gravida arcu. Risus commodo viverra maecenas accumsan lacus vel facilisis volutpat est. Ut venenatis tellus in metus.
+Is it even a good idea to start a tech blog in 2021 ? When I only started coding two and a half years ago ?
 
-Mauris vitae ultricies leo integer malesuada nunc. Sed enim ut sem viverra aliquet eget sit amet tellus. Eu tincidunt tortor aliquam nulla facilisi cras fermentum odio. Donec ac odio tempor orci dapibus ultrices in iaculis. Dolor magna eget est lorem ipsum dolor. Pellentesque dignissim enim sit amet venenatis. Lectus nulla at volutpat diam ut venenatis. Mauris nunc congue nisi vitae suscipit tellus. Nunc congue nisi vitae suscipit tellus mauris a diam maecenas. Risus quis varius quam quisque id diam vel. Sit amet aliquam id diam maecenas. Amet nisl suscipit adipiscing bibendum est. Elementum facilisis leo vel fringilla est ullamcorper eget nulla. Turpis tincidunt id aliquet risus feugiat in ante metus. Pulvinar mattis nunc sed blandit libero. Ullamcorper malesuada proin libero nunc consequat interdum. Velit laoreet id donec ultrices tincidunt.
+# Getting interested in content
 
-Mauris sit amet massa vitae tortor condimentum lacinia quis vel. Sed egestas egestas fringilla phasellus faucibus. Molestie a iaculis at erat pellentesque adipiscing commodo. Tristique magna sit amet purus gravida. Turpis massa sed elementum tempus. Nisl vel pretium lectus quam id leo in. Porttitor massa id neque aliquam vestibulum morbi blandit. Posuere lorem ipsum dolor sit. Platea dictumst quisque sagittis purus sit amet. Diam ut venenatis tellus in metus vulputate eu scelerisque. Elementum sagittis vitae et leo duis.
+When I switched career I started reading A LOT of technical articles after my bootcamp.
+I first read Medium articles, well, mostly added them to my Pocket and never opened them. Thankfully I progressively discovered newsletters which curate selected articles, I discovered blogs and voices of people who really inspired me. To name a few:
+- [Josh W Comeau](https://www.joshwcomeau.com/)
+- [Tania Rascia](https://www.taniarascia.com/)
+- [Denise Yu](https://deniseyu.io/)
+- [Vicki Boykis](https://vicki.substack.com/people/919000-vicki-boykis)
+- [Monica Lent](https://monicalent.com/blog/)
+- [Val Head](https://valhead.com/blog/)
+- [Sam Dickie](https://www.samdickie.me/writing)
+- [Julia Evans](https://jvns.ca/)
 
-Fermentum posuere urna nec tincidunt praesent semper feugiat nibh. Turpis egestas sed tempus urna et. Nibh praesent tristique magna sit. Sed turpis tincidunt id aliquet risus feugiat. Turpis in eu mi bibendum neque. Mattis vulputate enim nulla aliquet porttitor. Penatibus et magnis dis parturient. Et malesuada fames ac turpis egestas integer eget aliquet. Elementum tempus egestas sed sed risus. Ipsum dolor sit amet consectetur adipiscing elit. Mattis nunc sed blandit libero. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui faucibus. Massa sed elementum tempus egestas sed sed.
+These are people that I love reading content from and I watch out every time they drop something.
 
-Sit amet commodo nulla facilisi. Feugiat scelerisque varius morbi enim nunc faucibus a pellentesque. Elit duis tristique sollicitudin nibh sit amet commodo nulla. Tincidunt ornare massa eget egestas purus viverra accumsan in nisl. Tristique senectus et netus et malesuada. Porta non pulvinar neque laoreet suspendisse interdum. Mi in nulla posuere sollicitudin aliquam. Tortor dignissim convallis aenean et tortor. Sagittis id consectetur purus ut faucibus pulvinar elementum integer enim. Enim nec dui nunc mattis enim ut tellus.
+We're in the content area anyway, right ? With podcasts, newsletters... It looks like the current trend is to actively suscribe to people we want to follow, or even support them (with Patreon, Twitch).
+
+# Starting to write
+
+The thing is, I have a political science degree, so I spent most of my studies reading, writing about my readings and doing presentations of my readings.
+But after my studies I never wrote on my own. Even if I worked in the music field, moved to Paris and went to a lot of concerts, exhibitions... I never even had the idea of writing about all that.
+
+I wrote my first tech article one month into the quarantine. I have to admit now it may not have happened without all this time I got on my own (social isolation for the win, yeah !). I think what helped too is that there's almost always an interest for someone to write about a tech subject from their perspective. I also see that as an excuse to dig deep into a subject, so I never faced an impostor syndrom, because there's always a win for me.
+
+# Having my own space
+
+Nowadays there is a lot of tools for tech writers to blog: [Dev.to](https://dev.to/), [Hashnode](https://hashnode.com/). They provide a community and readers. But they also get really noisy and the FOMO situation can get bad: everyone seems to be doing something / succeeding at something. I see my blog as a space where I can write anything, at anytime, just for my own pleasure of writing (and doing research).
+
+I chose [Zola](https://www.getzola.org/) just because of this [beautiful theme](https://github.com/lopes/zola.386). I knew I wanted to make my blog with a static generator, because it's so convenient to change themes, or even adopt a headless CMS if I want to, and I finally concede to not build it from scratch.
+
+I thing it will be mostly opinion or news posts, I actually never wrote a tutorial, but I hope the day will come :)
+
